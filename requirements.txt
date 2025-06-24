@@ -1,0 +1,5 @@
+requests
+BeautifulSoup4
+selenium
+webdriver_manager
+lxml
